@@ -1,6 +1,6 @@
 # Atores
 Hospede
-Usuario_Master: Gerente da rede de hoteis
+Usuário_Master: Gerente da rede de hoteis
 Gerente_Unidade: Gerente do Hotel
 Sistema_CheckIn
 
@@ -11,12 +11,12 @@ Elevador
 # Casos de Uso
 UC-01
 Ator: Hospede
-Ação: Inserir Andar
-Fluxo Alternativo: Inserir andar que não tem
+Ação: Selecionar Andar
+Fluxo Alternativo: Selecionar andar que não tem
 
 UC-02
 Ator: Hospede
-Ação: Fazer reconhecimento
+Ação: Realizar reconhecimento facial
 Fluxo Alternativo: Hospede comum tentar fazer o reconhecimento
 
 UC-03
@@ -32,8 +32,8 @@ Ator: Gerente_Unidade
 Ação: Dimensionar elevadores
 
 UC-06
-Ator: Usuario_Master
-Ação: Gerenciar geretes das unidades
+Ator: Usuário_Master
+Ação: Gerenciar gerentes das unidades
 
 UC-07
 Ator: Gerente_Unidade
@@ -41,11 +41,11 @@ Ação: Acionar alarme de incêncio
 
 UC-08
 Ator: Gerente_Unidade
-Ação: Acionar alarme de emergencia
+Ação: Acionar alarme de emergência
 
 UC-09
 Ator: Sistema_CheckIn
-Ação: Cadastrar rosto
+Ação: Cadastrar facial
 
 **Perguntar para o Destro**
 UC-10
