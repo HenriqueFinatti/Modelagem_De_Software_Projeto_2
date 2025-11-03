@@ -3,10 +3,7 @@ Hospede
 Usuário_Master: Gerente da rede de hoteis
 Gerente_Unidade: Gerente do Hotel
 Sistema_CheckIn
-
-**Perguntar para o Destro**
-Sistema de Controle
-Elevador
+**Colocar no diagrama** Sistema_do_Elevador
 
 # Casos de Uso
 UC-01
@@ -47,19 +44,3 @@ UC-09
 Ator: Sistema_CheckIn
 Ação: Cadastrar facial
 
-**Perguntar para o Destro**
-UC-10
-Ator: Sistema de Controle
-Ação: Registrar logs de operações
-
-UC-11
-Ator: Elevador
-Ação: Controle De Carga
-
-UC-12
-Ator: Sistema de Controle
-Ação Exibir data/hora do último login
-
-UC-13
-Ator: Sistema de Controle
-Ação: Configurar indicadores e displays
