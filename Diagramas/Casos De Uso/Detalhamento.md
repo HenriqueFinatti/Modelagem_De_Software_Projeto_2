@@ -66,10 +66,10 @@
 |Pós Condição   |Elevadores ficam fechados e parados no andar mais próximo       |
 |Fluxo Principal|1. Gerente da unidade aperta o alarme de emergência<br> 2. Todos os elevadores vão para o andar mais próximo e abrem as portas<br> 3. Quando todos saírem os elevadores fecham as portas|
 
-|Identificador  |UC-09 - Cadastrar facial                                                                  |
+|Identificador  |UC-09 - Controle de carga                                                                 |
 |---------------|------------------------------------------------------------------------------------------|
-|Função         |Permite ao sistema de CheckIn enviar as informações de faciais cadastradas para o elevador|
-|Atores         |Sistema CheckIn                                                                           |
-|Pré Condição   |O hóspede estar hospedado no hotel                                                        |
-|Pós Condição   |O rosto foi adicionado ao sistema do elevador                                             |
-|Fluxo Principal|1. O hóspede faz checkin no hotel<br> 2. O hóspede cadastra a facial no sistema do hotel<br> 3. O sistema do hotel envia a facial para o sistema do elevador|
+|Função         |Permite ao elevador emitir um alerta quando o peso máximo do elevador é excedido          |
+|Atores         |Elevador                                                                                  |
+|Pré Condição   |O peso máximo que o elevador suporta ser superado                                         |
+|Pós Condição   |O elevador fica parado até que o peso seja aliviado                                       |
+|Fluxo Principal|1. Hóspedes entram no elevador<br> 2. O peso máximo do elevador é superado<br> 3. Elevador fica parado até que o peso seja aliviado|

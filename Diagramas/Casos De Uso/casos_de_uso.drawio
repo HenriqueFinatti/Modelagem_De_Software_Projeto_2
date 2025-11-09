@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9">
   <diagram name="Página-1" id="_t_Z5BgvbgtmUaABepda">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,17 +61,17 @@
         <mxCell id="kqnDwCzEWpBACY8Wi4yK-21" value="&lt;div&gt;UC-06&lt;/div&gt;&lt;div&gt;Gerenciar gerentes das unidades&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kqnDwCzEWpBACY8Wi4yK-26" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kqnDwCzEWpBACY8Wi4yK-24" target="kqnDwCzEWpBACY8Wi4yK-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kqnDwCzEWpBACY8Wi4yK-24" value="Sistema de Check In" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="370" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kqnDwCzEWpBACY8Wi4yK-25" value="&lt;div&gt;UC-09&lt;/div&gt;&lt;div&gt;Cadastrar facial&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="360" width="120" height="80" as="geometry" />
+        <mxCell id="Eg17lsaPWaahH69Ku4or-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQJKP5j4dlHGql8bwWos-4" target="Eg17lsaPWaahH69Ku4or-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IQJKP5j4dlHGql8bwWos-4" value="Elevador&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="IQJKP5j4dlHGql8bwWos-4" value="Elevador&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="760" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Eg17lsaPWaahH69Ku4or-1" value="&lt;div&gt;UC-09&lt;/div&gt;&lt;div&gt;Controle de carga&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

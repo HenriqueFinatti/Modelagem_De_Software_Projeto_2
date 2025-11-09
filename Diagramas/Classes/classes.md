@@ -13,6 +13,7 @@ class Elevador{
     valida_carga() 
     situacao_emergência()
     situacao_incêndio()   
+    realiza_facial()
 }
 
 class Andar{
@@ -20,13 +21,14 @@ class Andar{
     string tipo
     int hospedesAceitos[]
     valida_facial()
+    valida_andar()
 }
 
 class Botoeira{
     int andar_selecionado
-    valida_andar()
     chama_elevador()
     buscar_elevador()
+    mostra_elevador()
 }
 
 class UsuarioDoSistema{
