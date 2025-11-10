@@ -43,7 +43,7 @@ class UsuarioDoSistema{
 class SalaDeComando{
     - Andar andares_do_hotel[]
     Elevador elevadores_do_hotel[]
-    dipara_alerta()
+    dispara_alerta()
     dimensiona_elevador()
     categoriza_andar()
     verificar_camera()
