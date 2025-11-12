@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="9C1kZCJz4nEoTb5tZNB_">
+    <mxGraphModel dx="1665" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_6C2St-_u7I3RR8hqwza-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_6C2St-_u7I3RR8hqwza-1" target="_6C2St-_u7I3RR8hqwza-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="290" />
+              <mxPoint x="440" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;SalaDeComando&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;SalaDeComando.war&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&amp;lt;&amp;lt;Sistema&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-2" value="+ UsuarioDoSistema&lt;div&gt;+&amp;nbsp;UsuarioMaster&lt;/div&gt;&lt;div&gt;+Andar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pacotes&lt;/div&gt;&lt;div&gt;&amp;lt;&amp;lt;Package&amp;gt;&amp;gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-3" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Elevador&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#131300&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;elevadores.exe&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&amp;lt;&amp;lt;Sistema&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_6C2St-_u7I3RR8hqwza-2" target="_6C2St-_u7I3RR8hqwza-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;+&amp;nbsp;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Botoeira&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#131300&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400; text-wrap-mode: nowrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;botoeiras.exe&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(19, 19, 0); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; font-size: 16px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); font-weight: normal;&quot;&gt;&amp;lt;&amp;lt;Sistema&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="530" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_6C2St-_u7I3RR8hqwza-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=170;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="_6C2St-_u7I3RR8hqwza-2" target="_6C2St-_u7I3RR8hqwza-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="470" />
+              <mxPoint x="660" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
